@@ -1,0 +1,4 @@
+*dist*
+*storage*
+*.egg-info**
+*test*
