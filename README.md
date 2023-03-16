@@ -57,6 +57,10 @@ code = "VNM"
 gadm = Gadm()
 gadm.get_shp_by_code(code)
 
+#init lat long
+lat = 10.773213
+long = 106.671818
+
 #from lat long to location in specific country
 latlng = LatLong()
 detail_info = latlng.to_location_by_country_code(code, lat, long)
