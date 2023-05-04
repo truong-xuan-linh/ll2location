@@ -1,5 +1,7 @@
 # ll2location
 
+[![Downloads](https://static.pepy.tech/badge/ll2location)](https://pepy.tech/project/ll2location)
+
 ## **Installation**
 ``pip install ll2location``
 
